@@ -16,7 +16,7 @@ https://docs.spring.io/spring-boot/docs/current/reference/html/getting-started-i
 5.- configurar PATH: C:\neosuniversity\software\spring-2.1.8.RELEASE\bin
 
 6.- Ejecutar el siguiente comando
-```ruby
+```shell_session
 $ spring version
 Spring CLI v2.1.8.RELEASE
 ```
