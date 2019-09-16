@@ -37,5 +37,7 @@ $ mvn clean package
 ```ruby
 $ java -jar target\neosuniversity-cli-0.0.1-SNAPSHOT.jar
 ```
-Abrir en browser
+9.-Ejecutar
+```ruby
 $ curl localhost:8080
+```
